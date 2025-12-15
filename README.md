@@ -1,6 +1,7 @@
 GameCo Video Game Popularity Analysis
 
-https://github.com/Nimrat1988/GameCo-Video-Game-Popularity-Analysis/blob/main/GameCo%20-%20Final%20Project%20Presentation.pdf
+
+[Final Project Presentation-Revised.pdf](https://github.com/user-attachments/files/24176008/Final.Project.Presentation-Revised.pdf)
 
 
 Objective - To perform a descriptive analysis of video game market data in order to identify trends, player preferences, and performance drivers that can guide GameCo’s game development and strategic decisions.
